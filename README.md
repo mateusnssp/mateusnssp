@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Mateus Nunes</h1>
 <img align="center" src="https://programadoresdepre.com.br/wp-content/uploads/2020/04/pacote-fullstack-danki-code.gif" alt="GIF">
 
-- 🌱 I’m currently learning kotlin, java, python, ocaml and more...
+- 🌱 I’m currently learning `Kotlin`, `Java`, `Python`, `oCaml` and more...
 - 👯 I’m looking to collaborate on `Open Source projects`;
 <!--
 **mateusnssp/mateusnssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
