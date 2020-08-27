@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![code](code.gif)
+<img align="center" src="https://programadoresdepre.com.br/wp-content/uploads/2020/04/pacote-fullstack-danki-code.gif" alt="GIF">
 
 <!--
 **mateusnssp/mateusnssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
