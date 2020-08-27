@@ -22,6 +22,5 @@ Here are some ideas to get you started:
 <p align="center">
 <a href="https://github.com/mateusnssp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
 <a href="https://twitter.com/_mateusns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hakacode" height="30" width="30" /></a>
-
 <a href="https://instagram.com/_mateusn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="will.constantinov" height="30" width="30" /></a>
 </p>
