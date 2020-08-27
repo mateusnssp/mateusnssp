@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![code](code.gif)
+
 <!--
 **mateusnssp/mateusnssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
