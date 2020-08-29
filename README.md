@@ -3,9 +3,10 @@
 
 <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
-- 🌱 I’m currently learning `Kotlin`, `Java`, `Python`, `oCaml` and more...
-- 👯 I’m looking to collaborate on `Open Source projects`;
-- 📫 How to reach me: below is some information.
+- I have skills with web development;
+- I am currently learning Kotlin, Java, Python, oCaml and some more.
+- I am looking to collaborate on Open Source projects;
+- How to reach me: below is some information.
 
 <!--
 **mateusnssp/mateusnssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
