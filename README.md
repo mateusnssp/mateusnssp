@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning `Kotlin`, `Java`, `Python`, `oCaml` and more...
 - 👯 I’m looking to collaborate on `Open Source projects`;
 - 🤔 I’m looking for help with implementations in my repositories.
+
+[![Protonmail](https://img.shields.io/badge/-Protonmail-4169e1?style=flat&logo=Protonmail&logoColor=white)](mailto:mateusnss@protonmail.ch)
 <!--
 **mateusnssp/mateusnssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
