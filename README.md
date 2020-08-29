@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 👋
 -->
-<p align="center"><a href="http://mateusnss@protonmail.ch" target="blank"><img aling="center" src="https://img.shields.io/badge/-Protonmail-4169e1?style=flat&logo=Protonmail&logoColor=white" alt="protonmail"/></a></p>
+<p align="center"><a href="mailto:mateusnss@protonmail.ch" target="blank"><img aling="center" src="https://img.shields.io/badge/-Protonmail-4169e1?style=flat&logo=Protonmail&logoColor=white" alt="protonmail"/></a></p>
 <p align="center">
 <a href="https://github.com/mateusnssp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="30" /></a>
 <a href="https://dev.to/mateusnssp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mateusnssp" height="30" width="30" /></a>
