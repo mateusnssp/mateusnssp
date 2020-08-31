@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+/*
+azul: #377ef0
+amarelo: #f7c63d
+
+*/
+
+
+h1 {
+    color: #000000;
+    font-size: 80;
+    text-align: center;
+    text-shadow: 1px 1px 3px rgb(50, 50, 50);
+}
+
