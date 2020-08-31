@@ -8,11 +8,13 @@
 <a href="https://twitter.com/_mateusns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mateusnssp" height="30" width="30" /></a>
 <a href="https://instagram.com/_mateusn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="30" width="30" /></a>
 </p>
-<br/><br/>
-- I am currently learning Kotlin, Java, Python, oCaml and some more.
-- I am looking to collaborate on Open Source projects;
-- How to reach me: below is some information.
 
+<br/><br/>
+<ul>
+  <li>I am currently learning Kotlin, Java, Python, oCaml and some more;</li>
+  <li>I am looking to collaborate on Open Source projects;</li>
+  <li>How to reach me: below is some information.</li>
+</ul>
 <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
 
