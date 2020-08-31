@@ -19,7 +19,7 @@
 <ul>
   <li>I am currently learning Kotlin, Java, Python, oCaml and some more;</li>
   <li>I am looking to collaborate on Open Source projects;</li>
-  <li>How to reach me: below is some information.</li>
+  <li>How to reach me: access my social networks through the links above.</li>
 </ul>
 <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
