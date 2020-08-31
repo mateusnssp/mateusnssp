@@ -17,7 +17,7 @@
 
 <br/><br/>
 <ul>
-  <li style="color: red">I am currently learning Kotlin, Java, Python, oCaml and some more;</li>
+  <li>I am currently learning Kotlin, Java, Python, oCaml and some more;</li>
   <li>I am looking to collaborate on Open Source projects;</li>
   <li>How to reach me: below is some information.</li>
 </ul>
