@@ -1,4 +1,10 @@
+<!DOCTYPE html>
+<head>
 
+
+</head>
+
+<body>
 <h1 align="center">Hi there, I'm Mateus Nunes</h1>
 
 <p align="center"><a href="mailto:mateusnss@protonmail.ch" target="blank"><img aling="center" src="https://img.shields.io/badge/-Protonmail-4169e1?style=flat&logo=Protonmail&logoColor=white" alt="protonmail"/></a></p>
@@ -11,7 +17,7 @@
 
 <br/><br/>
 <ul>
-  <li>I am currently learning Kotlin, Java, Python, oCaml and some more;</li>
+  <li style="color: red">I am currently learning Kotlin, Java, Python, oCaml and some more;</li>
   <li>I am looking to collaborate on Open Source projects;</li>
   <li>How to reach me: below is some information.</li>
 </ul>
@@ -23,3 +29,4 @@
 </p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&hide=Jupyter+Notebook,HTML" alt="mateusnssp" />
 
 </p><img src="https://badges.pufler.dev/repos/mateusnssp" alt="mateusnssp"/>
+</body>
