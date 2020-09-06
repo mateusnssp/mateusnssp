@@ -29,7 +29,7 @@ body {
     position: absolute;
     margin: 5px;
   
-    animation: 3s ease-in-out infinite;
+    animation: 1.4s ease-in-out infinite;
   }
   
   #square-one {
@@ -43,14 +43,14 @@ body {
     right: 60px;
   
     animation-name: block-2;
-    animation-delay: .2s;
+    animation-delay: .01s;
   }
   #square-three {
     top: 50px;
     right: 30px;
   
     animation-name: block-3;
-    animation-delay: .3s;
+    animation-delay: .02s;
     
   }
   
