@@ -17,7 +17,7 @@
 
 <br/><br/>
 <div align="center">
-  <p>I am currently learning Kotlin, Java, Python, oCaml and some more;</p>
+  <p>Contribua em alguns de meus projetos!</p>
   <p>I am looking to collaborate on Open Source projects;</p>
   <p>How to reach me: access my social networks through the links above.</p>
 </div>
