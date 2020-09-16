@@ -1,0 +1,1 @@
+linear-gradient(95deg, #5923CC 0%, #E34FBA 100%)
