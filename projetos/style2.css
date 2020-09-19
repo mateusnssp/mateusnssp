@@ -1,12 +1,40 @@
 @charset "UTF-8";
 @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,300;1,200&display=swap');
 
+h1
+{
+    text-align: center;
+    font-size: 36pt;
+    color: whitesmoke;
+}
+
+
 h2
 {
     text-align: center;
 }
 
+
+
+
+.tema
+{
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+
+
+
+
+
+
 body
+{
+    background: linear-gradient(95deg, #5923CC 0%, #E34FBA 100%);
+}
+
+.body
 {
     background: linear-gradient(95deg, #5923CC 0%, #E34FBA 100%);
     margin: 0;

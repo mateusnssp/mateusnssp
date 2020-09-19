@@ -1,0 +1,27 @@
+@charset "UTF-8";
+
+body
+{
+    background: linear-gradient(95deg, #5923CC 0%, #E34FBA 100%);
+}
+
+h1
+{
+    text-align: center;
+    font-size: 36pt;
+    color: aliceblue;
+}
+
+.um 
+{
+    background: aliceblue;
+    position: relative;
+    height: 400px;
+    background: #fff;
+    overflow: hidden;
+    transition: 0.5s;
+    z-index: 2;
+    box-sizing: border-box;
+    padding: 30px;
+    box-shadow: -10px -10px 40px rgba(0, 0, 0, 0.5);
+}
