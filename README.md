@@ -10,10 +10,9 @@
 <!-- <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif"> -->
 
     
-❖ I am looking to collaborate on Open Source projects; <br/>
-❖ I currently learn python, C, Java; <br/>
-❖ I like HTML and CSS; <br/>
-❖ How to reach me: access my social networks through the links above. <br/>
+❖ Estou procurando colaborar em projetos de código aberto; <br/>
+❖ Atualmente aprendo `Python`,`C`, `Java` e mais alguns além de `HTML/CSS`; <br/>
+❖ Gosto de desafios, não importa o nível.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout&hide=Jupyter+Notebook,HTML"/></p>
 </body>
