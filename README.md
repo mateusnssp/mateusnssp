@@ -16,5 +16,5 @@
 <a href="https://instagram.com/_mateusn" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="30" width="30" /></a>
 </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout&hide=Jupyter+Notebook,HTML"/></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout&hide=Jupyter+Notebook,HTML"/></p>
 </body>
