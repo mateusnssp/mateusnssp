@@ -6,9 +6,9 @@
 <!-- <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif"> -->
 
     
-❖ Estou procurando colaborar em projetos de código aberto; <br/>
-❖ Atualmente aprendo `Python`,`C`, `Java` e mais alguns além de `HTML/CSS`; <br/>
-❖ Gosto de desafios, não importa o nível.
+❖ **Estou procurando colaborar em projetos de código aberto; <br/>**
+❖ **Atualmente aprendo `Python`,`C`, `Java` e mais alguns além de `HTML/CSS`;** <br/>
+❖ **Gosto de desafios, não importa o nível.**
 
 <!--
 <p align="center">
