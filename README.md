@@ -14,11 +14,10 @@
 </p>
 
 <br/><br/>
-<div align="center">
-  <p>Contribua em alguns de meus projetos!</p>
-  <p>I am looking to collaborate on Open Source projects;</p>
-  <p>How to reach me: access my social networks through the links above.</p>
-</div>
+
+❖ I am looking to collaborate on Open Source projects; <br/>
+❖ How to reach me: access my social networks through the links above. <br/>
+
 
 <!-- <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif"> -->
 
