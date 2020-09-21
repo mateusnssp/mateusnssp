@@ -1,6 +1,5 @@
-
 <body>
-    <h1>Hi there, I'm Mateus Nunes</h1>/
+    <h1>Hi there, I'm Mateus Nunes</h1>
     <p><a href="mailto:mateusnss@protonmail.ch" target="blank"><img aling="center" src="https://img.shields.io/badge/-Protonmail-4169e1?style=flat&logo=Protonmail&logoColor=white" alt="protonmail"/></a></p>
 
 <!-- <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif"> -->
