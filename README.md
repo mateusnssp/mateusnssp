@@ -1,11 +1,10 @@
 <body>
     <h1>Hi there, I'm Mateus Nunes</h1>
-    <img align="center" src="https://giphy.com/embed/JIX9t2j0ZTN9S">
     
     <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/JIX9t2j0ZTN9S" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
     <p><a href="mailto:mateusnss@protonmail.ch" target="blank"><img aling="center" src="https://img.shields.io/badge/-Protonmail-4169e1?style=flat&logo=Protonmail&logoColor=white" alt="protonmail"/></a></p>
 
-<!-- <img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif"> -->
+<img align="center" src="https://ugc.kn3.net/i/760x/https://cdn-images-1.medium.com/max/1600/1*IRFhWNqusUWbTsB1hQXhrQ.gif">
 
     
 ❖ **Estou procurando colaborar em projetos de código aberto; <br/>**
