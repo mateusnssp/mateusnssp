@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align="center"><img src="./lp.png"/></div>
+<div align="center"><img src="./lp.png" width="50%" /></div>
 
 <!--
 **mateusnssp/mateusnssp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
