@@ -1,9 +1,6 @@
 <h1 align="center">Hi there, I'm Mateus Nunes 👋</h1>
 
-<p align="center">I am a self-taught developer, motivated by the power and pleasure that technology offers.</p>
-
-- 🌱 I am currently learning C#, 2D game development and web development;
-- 👯 I’m looking to collaborate on Open Source projects.
+<p align="center">I am a self-taught developer, motivated by the power and pleasure that technology offers. I am currently learning C#, 2D game development and web development; I’m looking to collaborate on Open Source projects.</p>
 
 <img align="center" src="./programming.gif">
 
