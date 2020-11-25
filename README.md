@@ -1,5 +1,13 @@
 <h1 align="center">Hi there, I'm Mateus Nunes 👋</h1>
 
+
+<div align = "center">
+
+<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=Discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
+
+</div>
+
+
 <p align="center">I am a self-taught developer, motivated by the power and pleasure that technology offers. I am currently learning C#, 2D game development and web development; I’m looking to collaborate on Open Source projects.</p>
 
 <img align="center" src="./programming.gif">
@@ -29,7 +37,8 @@ Here are some ideas to get you started:
 
 </p>
 </div>
----
+
+<hr>
 
 <div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook" alt="mateusnssp" />
