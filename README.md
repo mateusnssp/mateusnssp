@@ -2,11 +2,10 @@
 
 <p align="center">I am a self-taught developer, motivated by the power and pleasure that technology offers.</p>
 
-- 🌱 I’m currently learning C #, 2D games and web development
-- 👯 I’m looking to collaborate on Open Source projects
+- 🌱 I am currently learning C#, 2D game development and web development;
+- 👯 I’m looking to collaborate on Open Source projects.
 
 <img align="center" src="./programming.gif">
-
 
 
 <!--
@@ -23,6 +22,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
 <p align="center">
 
 <a href="https://www.instagram.com/_mateusn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="40" width="40"></a>
@@ -30,6 +31,10 @@ Here are some ideas to get you started:
 <a href="https://github.com/mateusnssp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="_mateusn" height="40" width="40"></a>
 
 </p>
+</div>
 ---
+
+<div align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook" alt="mateusnssp" />
+</div>
 
