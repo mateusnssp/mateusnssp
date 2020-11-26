@@ -3,7 +3,8 @@
 <img align="right" src="./computer-illustration.png" width="350"/>
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://_mateusn)](https://instagram.com/_mateusn) 
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-6633cc?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-6633cc?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
+[![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-6633cc?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206) 
 
 
 
