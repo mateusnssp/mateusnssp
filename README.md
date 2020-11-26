@@ -10,6 +10,11 @@
 
 
 <p>I am a self-taught developer, motivated by the power and pleasure that technology offers. I am currently learning C#, 2D game development and web development; I’m looking to collaborate on Open Source projects.</p> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 <!-- redes sociais -->
 <div align="center">
 <p align="center">
