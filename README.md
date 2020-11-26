@@ -2,14 +2,22 @@
 <!--<img align="center" src="./programming.gif">-->
 <img align="right" src="./computer-illustration.png" width="350"/>
 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://_mateusn)](https://instagram.com/_mateusn) 
+<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://_mateusn)](https://instagram.com/_mateusn) -->
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-6633cc?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
 [![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-6633cc?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206) 
 
+<a href="https://codesandbox.io/u/mateusnssp"><img alt="Mateus Nunes - CodeSandbox" width="20px" src="./icons/codesandbox.svg" /></a>
+<a href="https://www.instagram.com/_mateusn/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="20" width="20"></a>
+<a href="https://twitter.com/_mateusns" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mateusns" height="20" width="20"></a>
+<a href="" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_mateusn" height="20" width="20"></a>
 
 
 
 <p>I am a self-taught developer, motivated by the power and pleasure that technology offers. I am currently learning C#, 2D game development and web development; I’m looking to collaborate on Open Source projects.</p> 
+
+
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook)](https://github.com/anuraghazra/github-readme-stats)
 
