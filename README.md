@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Mateus Nunes 👋</h1>
-<img align="center" src="./programming.gif">
+<!--<img align="center" src="./programming.gif">-->
 
 
 
