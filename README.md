@@ -1,42 +1,41 @@
-<h1 align="center">Hi there, I'm Mateus Nunes 👋</h1>
+# Mateus Nunes
 <!--<img align="center" src="./programming.gif">-->
+<img align="right" src="./computer-illustration.png" width="350"/>
+
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://_mateusn)](https://instagram.com/_mateusn) 
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-6633cc?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch) 
 
 
 
 
-
-<p align="center">I am a self-taught developer, motivated by the power and pleasure that technology offers. I am currently learning C#, 2D game development and web development; I’m looking to collaborate on Open Source projects.</p>
-
+<p>I am a self-taught developer, motivated by the power and pleasure that technology offers. I am currently learning C#, 2D game development and web development; I’m looking to collaborate on Open Source projects.</p> 
 <!-- redes sociais -->
 <div align="center">
 <p align="center">
-
+<!--
 <a href="https://www.instagram.com/_mateusn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="40" width="40"></a>
 <a href="https://twitter.com/_mateusns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mateusns" height="40" width="40"></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="will.constantinov" alt="_mateusn" height="40" width="40"></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_mateusn" height="40" width="40"></a>
+-->
 <!--
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="_mateusn" height="40" width="40"></a>
 <a href="https://github.com/mateusnssp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="_mateusn" height="40" width="40"></a>
 -->
 
+<!--
+
 </p>
 </div>
 
 
-
-<!--bandeiras-->
 <div align = "center">
 
-<!--<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a>--> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=mateusnssp%234206&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
+<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=mateusnssp%234206&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
 
 </div>
 
 
-
-
- 
-<!--habilidades-->
 <h2 align="center">Habilidades</h2>
 
 <div align="center">
