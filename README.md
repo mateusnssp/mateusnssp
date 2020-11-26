@@ -3,7 +3,7 @@
 
 <div align = "center">
 
-<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=Discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
+<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=mateusnssp%234206&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
 
 </div>
 
@@ -26,8 +26,42 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+html, css, js
+c#/dotnet, python, 
+git,
+
 -->
 
+<hr> 
+<!--habilidades-->
+<h2 align="center">Habilidades</h2>
+
+<div align="center">
+
+
+<img align="center" src="./icons/python-original.svg" width="40" height="40">
+
+<img align="center" src="./icons/html5-original.svg" width="40" height="40">
+<img align="center" src="./icons/css3-original.svg" width="40" height="40">
+<img align="center" src="./icons/javascript-original.svg" width="40" height="40">
+<img align="center" src="./icons/git-original.svg" width="40" height="40">
+
+<img align="center" src="./icons/csharp-original.svg" width="40" height="40">
+
+<img align="center" src="./icons/dot-net-original-wordmark.svg" width="40" height="40">
+
+
+
+<div></br>
+
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook" alt="mateusnssp" />
+</div>
+
+
+<hr>
+<!-- redes sociais -->
 <div align="center">
 <p align="center">
 
@@ -37,10 +71,3 @@ Here are some ideas to get you started:
 
 </p>
 </div>
-
-<hr>
-
-<div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook" alt="mateusnssp" />
-</div>
-
