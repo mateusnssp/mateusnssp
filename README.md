@@ -47,9 +47,9 @@ git,
 <img align="center" src="./icons/javascript-original.svg" width="40" height="40">
 <img align="center" src="./icons/git-original.svg" width="40" height="40">
 
+<img align="center" src="./icons/dot-net-original.svg" width="40" height="40">
 <img align="center" src="./icons/csharp-original.svg" width="40" height="40">
 
-<img align="center" src="./icons/dot-net-original-wordmark.svg" width="40" height="40">
 
 
 
