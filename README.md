@@ -26,7 +26,7 @@
 <!--bandeiras-->
 <div align = "center">
 
-<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=mateusnssp%234206&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
+<!--<a href="mateusnss@protonmail.ch"><img align="center" src="https://img.shields.io/static/v1?label=&logo=protonmail&message=Protonmail&logoColor=ffffff&color=505061&labelColor=505061"></a>--> <a href=""><img align="center" src="https://img.shields.io/static/v1?label=&logo=discord&message=mateusnssp%234206&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)]"></a>
 
 </div>
 
