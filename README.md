@@ -13,10 +13,12 @@
 
 <a href="https://www.instagram.com/_mateusn/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="40" width="40"></a>
 <a href="https://twitter.com/_mateusns" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mateusns" height="40" width="40"></a>
-<a href="https://github.com/mateusnssp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="_mateusn" height="40" width="40"></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="will.constantinov" alt="_mateusn" height="40" width="40"></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_mateusn" height="40" width="40"></a>
-<!--<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="_mateusn" height="40" width="40"></a>-->
+<!--
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="_mateusn" height="40" width="40"></a>
+<a href="https://github.com/mateusnssp/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="_mateusn" height="40" width="40"></a>
+-->
 
 </p>
 </div>
