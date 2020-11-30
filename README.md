@@ -19,7 +19,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&hide=Jupyter+Notebook,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&hide=html,css,jupyter+notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
