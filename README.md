@@ -7,9 +7,13 @@
 
 ### Getting in touch
 
-<!-- [![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://_mateusn)](https://instagram.com/_mateusn) -->
+<!--
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-6633cc?style=flat-square&labelColor=6633cc&logo=instagram&logoColor=white&link=https://_mateusn)](https://instagram.com/_mateusn) 
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-6633cc?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
-[![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-6633cc?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206) 
+[![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-6633cc?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206)
+-->
+[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-000?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
+[![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-000?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206) 
 
 <a href="https://codesandbox.io/u/mateusnssp"><img alt="Mateus Nunes - CodeSandbox" width="20px" src="./icons/codesandbox.svg" /></a>
 <a href="https://www.instagram.com/_mateusn/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="20" width="20"></a>
