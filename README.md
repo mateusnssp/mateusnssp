@@ -20,9 +20,9 @@
 <a href="https://twitter.com/_mateusns" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mateusns" height="20" width="20"></a>
 <a href="" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_mateusn" height="20" width="20"></a>
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&hide=html,css,jupyter+notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 
 
 <!-- redes sociais -->
