@@ -12,7 +12,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-6633cc?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
 [![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-6633cc?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206)
 -->
-[![Linkedin Badge](https://img.shields.io/badge/-Mateus%20Nunes-000?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
+[![Mail Badge](https://img.shields.io/badge/-Mateus%20Nunes-000?style=flat-square&logo=Protonmail&logoColor=white&link=mailto:mateusnss@protonmail.ch)](mailto:mateusnss@protonmail.ch)
 [![Discord Badge](https://img.shields.io/badge/-mateusnssp%234206-000?style=flat-square&logo=discord&logoColor=white&link=)](mateusnssp#4206) 
 
 <a href="https://codesandbox.io/u/mateusnssp"><img alt="Mateus Nunes - CodeSandbox" width="20px" src="./icons/codesandbox.svg" /></a>
