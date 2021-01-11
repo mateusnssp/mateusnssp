@@ -1,6 +1,6 @@
 # Mateus Nunes
 <!--<img align="center" src="./programming.gif">-->
-<img align="right" src="./computer-illustration.png" width="350"/>
+<!--<img align="right" src="./computer-illustration.png" width="350"/>-->
 
 
 <p>I am a self-taught developer, motivated by the power and pleasure that technology offers. I’m looking to collaborate on Open Source projects.</p> 
@@ -21,9 +21,8 @@
 <a href="" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_mateusn" height="20" width="20"></a>
 
 
-<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&hide=html,css,jupyter+notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
--->
+
 
 
 <!-- redes sociais -->
