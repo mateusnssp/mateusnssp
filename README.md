@@ -17,7 +17,7 @@
 
 <a href="https://codesandbox.io/u/mateusnssp"><img alt="Mateus Nunes - CodeSandbox" width="20px" src="./icons/codesandbox.svg" /></a>
 <a href="https://www.instagram.com/_mateusn/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_mateusn" height="20" width="20"></a>
-<a href="https://twitter.com/_mateusns" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mateusns" height="20" width="20"></a>
+<!--<a href="https://twitter.com/_mateusns" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_mateusns" height="20" width="20"></a> -->
 <a href="" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="_mateusn" height="20" width="20"></a>
 
 <!--
