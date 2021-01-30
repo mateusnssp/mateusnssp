@@ -5,7 +5,7 @@
 
 <p>I am a self-taught developer, motivated by the power and pleasure that technology offers. I’m looking to collaborate on Open Source projects. Ask me about anything!</p> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&langs_count=9&hide=html,css,jupyter+notebook&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&langs_count=9&hide=html,css,jupyter+notebook&hide_border=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Getting in touch
