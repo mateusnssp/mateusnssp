@@ -5,6 +5,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusnssp&layout=compact&langs_count=9&hide=html,css,jupyter+notebook&hide_border=true&theme=radical&bg_color=30,0d0d0d,191919&title_color=fff&text_color=fff&icon_color=79ff97)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
+![Mateus's GitHub stats](https://github-readme-stats.vercel.app/api?username=mateusnssp&show_icons=true&theme=radical&hide_border=true&bg_color=30,0d0d0d,191919)
+-->
+
+
+<!--
 ### Skills
 
 <code><img src="./icons/html5.svg" width="30px"></code>
